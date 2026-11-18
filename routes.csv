@@ -1,0 +1,11 @@
+name,distance_km,elevation_m,shade_pct,sheltered_pct,surface,loop
+East Coast Park (Bedok to Marina),10.0,10,25,5,paved,0
+MacRitchie Reservoir Loop,11.0,120,85,20,trail,1
+Marina Bay Waterfront Loop,3.5,5,20,30,paved,1
+Southern Ridges (HortPark to Mount Faber),9.0,230,70,25,mixed,0
+Bishan-AMK Park Loop,5.0,10,50,5,paved,1
+Singapore Botanic Gardens Loop,4.0,15,75,15,paved,1
+Punggol Waterway Loop,8.5,8,30,10,paved,1
+Kallang Riverside to Gardens by the Bay,7.0,10,25,40,paved,0
+Bukit Timah Hill (Summit Trail),6.0,160,90,15,trail,0
+Sentosa Beachfront Run,6.5,20,35,10,paved,0
